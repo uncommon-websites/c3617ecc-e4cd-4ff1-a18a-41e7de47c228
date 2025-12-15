@@ -4,66 +4,66 @@
 			<!-- Testimonial 1 -->
 			<div class="bg-[#0f0f0f] p-8 rounded-xl border border-white/5 flex flex-col justify-between h-full">
 				<blockquote class="text-lg text-gray-300 leading-relaxed mb-8">
-					"All of a sudden, a valuation memo that our CFO previously spent almost a week preparing was completed within three or four hours."
+					"ALPHV's practical approach to AI implementation helped us overcome our technical expertise gap. Their fintech case studies gave us confidence to move forward."
 				</blockquote>
 				<div>
-					<div class="font-medium text-white text-sm">Chief Sustainability Officer</div>
-					<div class="text-gray-500 text-xs mt-0.5">Leading renewable energy company</div>
+					<div class="font-medium text-white text-sm">Chief Technology Officer</div>
+					<div class="text-gray-500 text-xs mt-0.5">Malaysian Digital Bank</div>
 				</div>
 			</div>
 
 			<!-- Testimonial 2 -->
 			<div class="bg-[#0f0f0f] p-8 rounded-xl border border-white/5 flex flex-col justify-between h-full">
 				<blockquote class="text-lg text-gray-300 leading-relaxed mb-8">
-					"Sana gives us control over the AI, allowing us to choose the material it accesses and tailor its parameters to our specific needs."
+					"The community ecosystem is invaluable. We can tap into 60,000 developers for talent when we need to scale our AI initiatives quickly."
 				</blockquote>
 				<div>
-					<div class="font-medium text-white text-sm">Executive Vice President</div>
-					<div class="text-gray-500 text-xs mt-0.5">Global medical technology provider</div>
+					<div class="font-medium text-white text-sm">Head of Digital Transformation</div>
+					<div class="text-gray-500 text-xs mt-0.5">Malaysian Healthcare Provider</div>
 				</div>
 			</div>
 
 			<!-- Testimonial 3 -->
 			<div class="bg-[#0f0f0f] p-8 rounded-xl border border-white/5 flex flex-col justify-between h-full">
 				<blockquote class="text-lg text-gray-300 leading-relaxed mb-8">
-					"With Sana Agents, even colleagues who aren't tech-savvy can leverage AI in their everyday work. It's empowered everyone, not just the experts."
+					"ALPHV understands the Malaysian market deeply. Their integration with Alibaba Cloud made our deployment seamless and cost-effective."
 				</blockquote>
 				<div>
-					<div class="font-medium text-white text-sm">Head of Digitalization</div>
-					<div class="text-gray-500 text-xs mt-0.5">Major real estate group</div>
+					<div class="font-medium text-white text-sm">VP of Technology</div>
+					<div class="text-gray-500 text-xs mt-0.5">Insurance Company</div>
 				</div>
 			</div>
 
             <!-- Testimonial 4 -->
 			<div class="bg-[#0f0f0f] p-8 rounded-xl border border-white/5 flex flex-col justify-between h-full">
 				<blockquote class="text-lg text-gray-300 leading-relaxed mb-8">
-					"With Sana, our sales prep is now 10x quicker. Instead of spending hours gathering data manually, our team can instantly access the research insights they need—freeing them to focus on designing more meaningful, strategic client conversations."
+					"From consulting to implementation, ALPHV delivered end-to-end. Their 9 years of enterprise AI experience shows in every aspect of their work."
 				</blockquote>
 				<div>
-					<div class="font-medium text-white text-sm">Product Operations Lead</div>
-					<div class="text-gray-500 text-xs mt-0.5">International research and analytics firm</div>
+					<div class="font-medium text-white text-sm">Chief Information Officer</div>
+					<div class="text-gray-500 text-xs mt-0.5">Malaysian Fintech Unicorn</div>
 				</div>
 			</div>
 
             <!-- Testimonial 5 -->
 			<div class="bg-[#0f0f0f] p-8 rounded-xl border border-white/5 flex flex-col justify-between h-full">
 				<blockquote class="text-lg text-gray-300 leading-relaxed mb-8">
-					"We're leveraging our AI agents to find and compare product information, build sales arguments, support R&D, and much more. We see real operational efficiency, and Sana has already provided us with a quick payback."
+					"They didn't just implement AI—they helped us build internal capabilities. Now our team can maintain and evolve the systems independently."
 				</blockquote>
 				<div>
-					<div class="font-medium text-white text-sm">CEO</div>
-					<div class="text-gray-500 text-xs mt-0.5">Global industrial automation company</div>
+					<div class="font-medium text-white text-sm">Director of Engineering</div>
+					<div class="text-gray-500 text-xs mt-0.5">E-commerce Platform</div>
 				</div>
 			</div>
 
             <!-- Testimonial 6 -->
 			<div class="bg-[#0f0f0f] p-8 rounded-xl border border-white/5 flex flex-col justify-between h-full">
 				<blockquote class="text-lg text-gray-300 leading-relaxed mb-8">
-					"With Sana, we're creating assistants to accelerate everything from deal analysis to portfolio reviews, transforming the way our investment teams operate."
+					"The proven fintech case studies gave our board confidence. ALPHV's track record in Malaysian enterprises made the decision easy."
 				</blockquote>
 				<div>
 					<div class="font-medium text-white text-sm">Chief Digital Officer</div>
-					<div class="text-gray-500 text-xs mt-0.5">Leading private equity firm</div>
+					<div class="text-gray-500 text-xs mt-0.5">Regional Bank</div>
 				</div>
 			</div>
 		</div>

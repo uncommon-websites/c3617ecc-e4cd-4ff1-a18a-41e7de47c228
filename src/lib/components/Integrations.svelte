@@ -1,46 +1,46 @@
 <script lang="ts">
     // Simple SVG paths for icons would be better, but for now using colored squares/circles to mimic brand colors
     const integrations = [
-        { name: 'Google Drive', color: 'bg-green-500' },
-        { name: 'Teams', color: 'bg-indigo-500' },
-        { name: 'Slack', color: 'bg-purple-500' },
+        { name: 'Alibaba Cloud', color: 'bg-orange-500' },
+        { name: 'SAP', color: 'bg-blue-500' },
+        { name: 'Oracle', color: 'bg-red-600' },
+        { name: 'Microsoft', color: 'bg-blue-600' },
         { name: 'Salesforce', color: 'bg-blue-400' },
-        { name: 'HubSpot', color: 'bg-orange-500' },
         { name: 'ServiceNow', color: 'bg-green-700' },
-        { name: 'SharePoint', color: 'bg-teal-600' },
-        { name: 'OneDrive', color: 'bg-blue-600' },
-        { name: 'Outlook', color: 'bg-blue-500' },
-        { name: 'Workday', color: 'bg-blue-700' },
-        { name: 'Figma', color: 'bg-purple-400' },
-        { name: 'GitHub', color: 'bg-white' },
-        { name: 'Zendesk', color: 'bg-green-400' },
-        { name: 'Gmail', color: 'bg-red-500' },
-        { name: 'Confluence', color: 'bg-blue-300' },
-        { name: 'Jira', color: 'bg-blue-500' }
+        { name: 'AWS', color: 'bg-yellow-600' },
+        { name: 'Azure', color: 'bg-blue-500' },
+        { name: 'Google Cloud', color: 'bg-red-500' },
+        { name: 'MongoDB', color: 'bg-green-600' },
+        { name: 'PostgreSQL', color: 'bg-blue-700' },
+        { name: 'MySQL', color: 'bg-blue-400' },
+        { name: 'Redis', color: 'bg-red-500' },
+        { name: 'Kafka', color: 'bg-gray-800' },
+        { name: 'Docker', color: 'bg-blue-500' },
+        { name: 'Kubernetes', color: 'bg-blue-600' }
     ];
 
     const security = [
-        'Custom user roles', 'SCIM provisioning', 'Advanced permissions', 'Private LLMs', 
-        'SOC 2 Type 2', 'GDPR compliant', 'ISO 27001', 'Encryption', 
-        'SAML single sign-on', 'Domain verification', 'Regional deploys', 'Audit logging'
+        'Enterprise Security', 'Data Privacy', 'ISO 27001', 'Encryption', 
+        'Access Control', 'Compliance', 'Audit Trails', 'Backup & Recovery', 
+        'Network Security', 'API Security', 'Malaysian Data Laws', 'PDPA Compliant'
     ];
 </script>
 
 <section class="py-24 bg-black text-white">
 	<div class="max-w-[1400px] mx-auto px-6 text-center">
-		<h2 class="text-4xl md:text-5xl lg:text-6xl font-serif font-normal mb-6">
-			Enterprise-grade<br />
-			integrations and security
+		<h2 class="text-4xl md:text-5xl lg:text-6xl font-bold mb-6">
+			Enterprise Integration<br />
+			& Cloud Partnership
 		</h2>
 		<p class="text-gray-400 text-lg max-w-2xl mx-auto mb-20">
-			Sana connects with 100+ applications and unifies your company's data securely.
+			Seamless integration with your existing systems, powered by Alibaba Cloud infrastructure for Malaysian enterprises.
 		</p>
 
 		<div class="grid grid-cols-1 lg:grid-cols-2 gap-20">
             <!-- Integrations -->
 			<div>
-                <div class="inline-block bg-[#3b82f6] text-white text-[10px] font-bold px-3 py-1 rounded-full mb-8 tracking-wide uppercase">
-                    Connect your daily tools seamlessly
+                <div class="inline-block bg-primary-500 text-white text-[10px] font-bold px-3 py-1 rounded-full mb-8 tracking-wide uppercase">
+                    Enterprise System Integration
                 </div>
                 
                 <div class="grid grid-cols-4 gap-4">
@@ -57,8 +57,8 @@
 
             <!-- Security -->
 			<div>
-                <div class="inline-block bg-[#3b82f6] text-white text-[10px] font-bold px-3 py-1 rounded-full mb-8 tracking-wide uppercase">
-                    Security you can stand by
+                <div class="inline-block bg-primary-500 text-white text-[10px] font-bold px-3 py-1 rounded-full mb-8 tracking-wide uppercase">
+                    Enterprise-Grade Security
                 </div>
                 
                 <div class="grid grid-cols-4 gap-4">

@@ -5,22 +5,22 @@
 <section class="relative pt-32 pb-20 overflow-hidden bg-black text-white">
 	<div class="max-w-[1400px] mx-auto px-6">
 		<div class="max-w-4xl">
-			<h1 class="text-6xl md:text-7xl lg:text-[5.5rem] leading-[1.1] font-serif font-normal tracking-tight mb-8">
-				Get <span class="italic font-light font-serif">client deliverables</span><br />
-				done with AI
+			<h1 class="text-6xl md:text-7xl lg:text-[5.5rem] leading-[1.1] font-bold tracking-tight mb-8">
+				Transform Your Enterprise<br />
+				with <span class="text-primary-400">AI-Native Integration</span>
 			</h1>
 
 			<p class="text-xl text-gray-400 max-w-2xl mb-10 leading-relaxed font-light font-sans">
-				Accelerate work with AI agents that collaborate, automate,
-				and think alongside your teams.
+				Malaysia's largest tech community delivers practical AI implementation for enterprises. 
+				From fintech to healthcare, we bridge the gap between AI potential and real-world results.
 			</p>
 
 			<div class="flex flex-wrap gap-4 mb-20">
-				<button class="bg-[#3b82f6] hover:bg-blue-600 text-white px-8 py-4 rounded-full font-medium transition-colors text-base">
-					Book an intro
+				<button class="bg-primary-500 hover:bg-primary-600 text-white px-8 py-4 rounded-full font-medium transition-colors text-base">
+					Start Your Transformation
 				</button>
 				<button class="bg-white/10 hover:bg-white/20 border border-white/10 text-white px-8 py-4 rounded-full font-medium transition-colors text-base">
-					Try it free
+					View Case Studies
 				</button>
 			</div>
 		</div>
@@ -39,7 +39,7 @@
                         <div class="w-3 h-3 rounded-full bg-green-500/20"></div>
                     </div>
                     <div class="mx-auto w-1/3 h-6 bg-white/5 rounded-md text-[10px] flex items-center justify-center text-gray-500 font-mono">
-                        sana.ai/dashboard
+                        alphv.ai/dashboard
                     </div>
 				</div>
 				<!-- Content Mockup -->
@@ -87,16 +87,16 @@
 		</div>
 	</div>
     
-    <!-- Client Logos -->
+    <!-- Partner Logos -->
     <div class="max-w-[1400px] mx-auto px-6 mt-20">
+        <p class="text-center text-gray-500 text-sm mb-8 uppercase tracking-wider">Trusted by Malaysian Enterprises</p>
         <div class="flex flex-wrap justify-center md:justify-between items-center gap-8 opacity-50 grayscale hover:grayscale-0 transition-all duration-500">
-            <!-- Simple text placeholders for logos as SVGs are complex to recreate perfectly without assets -->
-            <span class="text-xl font-bold font-sans">piab</span>
-            <span class="text-xl font-bold font-serif italic">Hinge Health</span>
-            <span class="text-xl font-bold font-sans tracking-widest">swile</span>
-            <span class="text-xl font-bold font-serif">josh bersin</span>
-            <span class="text-xl font-bold font-sans">Polestar</span>
-            <span class="text-xl font-bold font-sans">Electrolux Group</span>
+            <span class="text-xl font-bold font-sans">Maybank</span>
+            <span class="text-xl font-bold font-sans">CIMB</span>
+            <span class="text-xl font-bold font-sans tracking-wide">Petronas</span>
+            <span class="text-xl font-bold font-sans">Axiata</span>
+            <span class="text-xl font-bold font-sans">Alibaba Cloud</span>
+            <span class="text-xl font-bold font-sans">Telekom Malaysia</span>
         </div>
     </div>
 </section>

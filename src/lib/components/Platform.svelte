@@ -5,22 +5,22 @@
 <section class="py-24 bg-black text-white">
 	<div class="max-w-[1400px] mx-auto px-6">
 		<div class="text-center mb-20">
-			<h2 class="text-4xl md:text-5xl lg:text-6xl font-serif font-normal mb-6">
-				Your all-in-one<br />
-				AI platform for real work
+			<h2 class="text-4xl md:text-5xl lg:text-6xl font-bold mb-6">
+				AI-Native System Integration<br />
+				Built for Malaysian Enterprises
 			</h2>
 			<p class="text-gray-400 text-lg max-w-2xl mx-auto">
-				A seamless, beautiful way to bring AI into your company's apps, knowledge, and culture.
+				From strategy to implementation, we deliver end-to-end AI solutions that integrate seamlessly with your existing systems.
 			</p>
 		</div>
 
 		<!-- Row 1 -->
 		<div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
-			<!-- Card 1: Automate -->
+			<!-- Card 1: System Integration -->
 			<div class="bg-[#0f0f0f] rounded-xl p-8 border border-white/5 h-[600px] flex flex-col relative overflow-hidden group">
 				<div class="mb-8 relative z-10">
-					<h3 class="text-lg font-semibold mb-1">Automate</h3>
-					<p class="text-gray-400 text-sm">Run complex, multi-step processes</p>
+					<h3 class="text-lg font-semibold mb-1">System Integration</h3>
+					<p class="text-gray-400 text-sm">Seamlessly connect AI with your existing infrastructure</p>
 				</div>
                 
                 <!-- Mockup Content -->
@@ -41,11 +41,11 @@
                 </div>
 			</div>
 
-			<!-- Card 2: Create -->
+			<!-- Card 2: Implementation -->
 			<div class="bg-[#0f0f0f] rounded-xl p-8 border border-white/5 h-[600px] flex flex-col relative overflow-hidden group">
 				<div class="mb-8 relative z-10">
-					<h3 class="text-lg font-semibold mb-1">Create</h3>
-					<p class="text-gray-400 text-sm">Generate collaborative content in any format</p>
+					<h3 class="text-lg font-semibold mb-1">Implementation</h3>
+					<p class="text-gray-400 text-sm">Practical AI deployment with proven methodologies</p>
 				</div>
                 
                 <!-- Mockup Content -->
@@ -88,11 +88,11 @@
 
         <!-- Row 2 -->
 		<div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-			<!-- Card 3: Analyze -->
+			<!-- Card 3: Consulting -->
 			<div class="bg-[#0f0f0f] rounded-xl p-8 border border-white/5 h-[500px] flex flex-col relative overflow-hidden group">
 				<div class="mb-8 relative z-10">
-					<h3 class="text-lg font-semibold mb-1">Analyze</h3>
-					<p class="text-gray-400 text-sm">Turn data into live dashboards and reports</p>
+					<h3 class="text-lg font-semibold mb-1">Consulting</h3>
+					<p class="text-gray-400 text-sm">Expert guidance from 9 years of enterprise AI experience</p>
 				</div>
                 
                  <!-- Mockup Content - Code Editor Look -->
@@ -118,11 +118,11 @@
                 </div>
 			</div>
 
-			<!-- Card 4: Act -->
+			<!-- Card 4: Community Support -->
 			<div class="bg-[#0f0f0f] rounded-xl p-8 border border-white/5 h-[500px] flex flex-col relative overflow-hidden group">
 				<div class="mb-8 relative z-10">
-					<h3 class="text-lg font-semibold mb-1">Act</h3>
-					<p class="text-gray-400 text-sm">Take instant actions across your tools</p>
+					<h3 class="text-lg font-semibold mb-1">Community Support</h3>
+					<p class="text-gray-400 text-sm">Access 60,000+ developers for talent and expertise</p>
 				</div>
                 
                  <!-- Mockup Content - Action Card -->
@@ -149,11 +149,11 @@
                 </div>
 			</div>
 
-            <!-- Card 5: Find -->
+            <!-- Card 5: Talent Development -->
 			<div class="bg-[#0f0f0f] rounded-xl p-8 border border-white/5 h-[500px] flex flex-col relative overflow-hidden group">
 				<div class="mb-8 relative z-10">
-					<h3 class="text-lg font-semibold mb-1">Find</h3>
-					<p class="text-gray-400 text-sm">All the latest company docs and data</p>
+					<h3 class="text-lg font-semibold mb-1">Talent Development</h3>
+					<p class="text-gray-400 text-sm">Build internal AI capabilities through training</p>
 				</div>
                 
                  <!-- Mockup Content - Search/Result -->
